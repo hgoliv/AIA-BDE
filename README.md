@@ -1,2 +1,2 @@
 # AIA-BDE
-AIA-BDE: corpus of Portuguese FAQs and their variations
+The repository of the AIA-BDE corpus has moved to https://github.com/NLP-CISUC/AIA-BDE
